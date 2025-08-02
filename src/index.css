@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@layer root {}
+
+@layer base {}
+
+@layer components {}
+
+@layer utilities {}
